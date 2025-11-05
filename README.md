@@ -37,8 +37,7 @@ Foram criadas consultas de diferentes tipos:
 - Junção (`JOIN`)
 
 ## Desenvolvedor 
-👤**Ana Carolina Pereira Fontes**
-📚 FIAP – 1TDSPV | Building Relational Database
-📧 https://www.linkedin.com/in/ana-carolina-pereira-fontes/
-ORDER BY 
-    C.DT_HR_CONSULTA;
+-👤**Ana Carolina Pereira Fontes**
+-📚 FIAP – 1TDSPV | Building Relational Database
+-📧 https://www.linkedin.com/in/ana-carolina-pereira-fontes/
+
